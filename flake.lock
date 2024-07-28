@@ -36,7 +36,7 @@
       "inputs": {
         "flake-compat": "flake-compat",
         "nixpkgs": "nixpkgs",
-        "utils": "utils"
+        "flake-utils": "flake-utils"
       }
     },
     "systems": {
